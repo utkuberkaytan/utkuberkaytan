@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @utkuberkaytan
+- 👀 I’m interested in C, C#, Python, Kotlin and Arduino
+- 🌱 I’m currently learning Kotlin
