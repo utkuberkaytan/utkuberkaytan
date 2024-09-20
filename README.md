@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utkuberkaytan
-- 👀 I’m interested in Flutter(Dart), C#, Python, Kotlin and Arduino
-- 🌱 I’m currently learning Flutter(Dart)
+- 👀 I’m interested in Flutter(Dart), C#, Python, Kotlin, Arduino and Kali
+- 🌱 I’m currently learning Kali Linux
 
-- I'm the founder of Strong Moon
+Özdemir Bayraktar Havacılık ve Uzay Teknolojileri Lisesi
