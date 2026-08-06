@@ -87,7 +87,6 @@ Long game: defense industry engineering.
 
 <p align="center">
   <a href="mailto:utkutanberkay@gmail.com"><img src="https://img.shields.io/badge/email-333?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/utku-berkay-tan-5b9251214E"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><sub>Good vibecoder btw.</sub></p>
