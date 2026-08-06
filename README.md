@@ -85,18 +85,9 @@ Long game: defense industry engineering.
 
 ---
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=utkuberkaytan&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkuberkaytan&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-
-</div>
-
----
-
 <p align="center">
   <a href="mailto:utkutanberkay@gmail.com"><img src="https://img.shields.io/badge/email-333?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/utku-berkay-tan-5b9251214E"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/utku-berkay-tan-5b9251214E](https://www.linkedin.com/in/utku-berkay-tan-5b9251214/)"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><sub>Good vibecoder btw.</sub></p>
