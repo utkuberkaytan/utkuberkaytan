@@ -19,7 +19,7 @@ I build things that fly and things that get in. Most of my work sits where softw
 flight controllers, computer vision on the edge, low-level Windows internals, and PCBs I actually
 have to solder afterwards.
 
-Started with drones, ended up caring about the whole stack underneath them — MAVLink packets,
+Started with drones, ended up caring about the whole stack underneath them: MAVLink packets,
 the autopilot's control loop, the SoC running inference, the radio link carrying it all, and the
 security of every hop in between.
 
