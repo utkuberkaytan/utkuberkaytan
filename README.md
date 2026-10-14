@@ -100,3 +100,9 @@ Long game: defense industry engineering.
 </p>
 
 <p align="center"><sub>Good vibecoder btw.</sub></p>
+
+---
+
+<p align="center">
+  <sub><code>curl -sL https://raw.githubusercontent.com/utkuberkaytan/utkuberkaytan/main/card.txt</code></sub>
+</p>
