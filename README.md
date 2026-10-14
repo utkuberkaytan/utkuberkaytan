@@ -1,41 +1,10 @@
-<h1 align="center">Utku Berkay TAN</h1>
-
 <p align="center">
-  <b>Autonomous systems · Offensive security · Embedded hardware</b><br>
-  <sub>Aerospace &amp; Aviation Technologies student — Özdemir Bayraktar Havacılık ve Uzay Teknolojileri MTAL</sub>
+  <img src="./card.svg" alt="terminal card" width="539" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/focus-UAV%20autonomy-0b1b2b?style=flat-square" />
-  <img src="https://img.shields.io/badge/focus-red%20team-7a1121?style=flat-square" />
-  <img src="https://img.shields.io/badge/focus-embedded%20%26%20PCB-1c4b3a?style=flat-square" />
+  <sub><code>curl -sL https://raw.githubusercontent.com/utkuberkaytan/utkuberkaytan/main/card.txt</code></sub>
 </p>
-
----
-
-### whoami
-
-I build things that fly and things that get in. Most of my work sits where software meets hardware:
-flight controllers, computer vision on the edge, low-level Windows internals, and PCBs I actually
-have to solder afterwards.
-
-Started with drones, ended up caring about the whole stack underneath them: MAVLink packets,
-the autopilot's control loop, the SoC running inference, the radio link carrying it all, and the
-security of every hop in between.
-
-Long game: defense industry engineering.
-
----
-
-### What I work on
-
-| Domain | What that means in practice |
-|---|---|
-| **UAV & Autonomy** | Fixed-wing / VTOL airframes, Pixhawk + ArduPilot, PyMAVLink & MAVSDK offboard control, PID tuning, YOLO-based detection and tracking on NVIDIA Jetson / Raspberry Pi |
-| **Offensive Security** | Windows internals, PE format, process injection, MITRE ATT&CK mapping, C2 tooling, encryption primitives, wordlist & credential auditing utilities |
-| **Embedded & Hardware** | KiCad schematic + PCB design, STM32, ESP32 |
-| **AI / Personal Agents** | FastAPI backends, vector databases, local LLM integration, mobile clients |
-| **Systems & Infra** | Linux, C, self-hosted homelab, networking and traffic-shaping experiments |
 
 ---
 
@@ -81,32 +50,4 @@ Long game: defense industry engineering.
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
----
-
-### Currently
-
-- **Mini sumo robotics** — STM32-based combat robot, custom sensor + motor driver board
-- **AI personal agent (EDITH)** — FastAPI + vector DB backend with a mobile client
-- **Windows internals** — PE parsing, memory mapping, injection primitives
-- **VTOL** flight tuning and multi-modal (RGB + thermal) detection pipelines
-- Deepening in **C** — memory management, low-level tooling, no safety net
-
----
-
-<p align="center">
-  <a href="mailto:utkutanberkay@gmail.com"><img src="https://img.shields.io/badge/email-333?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center"><sub>Good vibecoder btw.</sub></p>
-
----
-
-<p align="center">
-  <img src="./card.svg" alt="terminal card" width="539" />
-</p>
-
-<p align="center">
-  <sub><code>curl -sL https://raw.githubusercontent.com/utkuberkaytan/utkuberkaytan/main/card.txt</code></sub>
 </p>
