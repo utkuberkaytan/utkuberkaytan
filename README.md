@@ -32,8 +32,9 @@ Long game: defense industry engineering.
 | Domain | What that means in practice |
 |---|---|
 | **UAV & Autonomy** | Fixed-wing / VTOL airframes, Pixhawk + ArduPilot, PyMAVLink & MAVSDK offboard control, PID tuning, YOLO-based detection and tracking on NVIDIA Jetson / Raspberry Pi |
-| **Offensive Security** | Windows internals, PE format, process injection, MITRE ATT&CK mapping, C2 tooling, wordlist & credential auditing utilities |
-| **Embedded & Hardware** | KiCad schematic + PCB design |
+| **Offensive Security** | Windows internals, PE format, process injection, MITRE ATT&CK mapping, C2 tooling, encryption primitives, wordlist & credential auditing utilities |
+| **Embedded & Hardware** | KiCad schematic + PCB design, STM32, ESP32 |
+| **AI / Personal Agents** | FastAPI backends, vector databases, local LLM integration, mobile clients |
 | **Systems & Infra** | Linux, C, self-hosted homelab, networking and traffic-shaping experiments |
 
 ---
@@ -42,12 +43,15 @@ Long game: defense industry engineering.
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[TEAM_BERKUT-OPENSOURCE](https://github.com/utkuberkaytan/TEAM_BERKUT-OPENSOURCE)** | Open-source codebase from Team Berkut — autonomous UAV competition stack including mission planning, telemetry handling, and computer vision. | `Python` `MAVLink` `YOLO` |
 | **[usb-lisance-lock](https://github.com/utkuberkaytan/usb-lisance-lock)** | Hardware-bound software licensing — RSA-signed licenses tied to a USB device serial, so a key only works on the physical stick it was issued for. | `C#` `.NET` `RSA` |
 | **[PassSmith](https://github.com/utkuberkaytan/PassSmith)** | Lightweight wordlist generator for pentesting and password auditing. Feed it keywords, it builds realistic candidate passwords. | `C` |
+| **[xor_enc_to_arraykey](https://github.com/utkuberkaytan/xor_enc_to_arraykey)** | XOR encryption utility that encodes payloads into obfuscated array-key format — useful for shellcode staging and AV evasion research. | `C` |
+| **[file_pumper](https://github.com/utkuberkaytan/file_pumper)** | Inflates a file to an arbitrary size with junk data — useful for testing size-based AV/EDR bypasses and upload filters. | `Python` |
 | **[dualsense-toolkit](https://github.com/utkuberkaytan/dualsense-toolkit)** | USB control panel and CLI for the Sony DualSense on Windows — haptics, lightbar, triggers, straight over the wire. | `Python` `USB HID` |
 | **[xinput-toolkit](https://github.com/utkuberkaytan/xinput-toolkit)** | Xbox controller control panel for Windows built directly on the XInput API. No third-party dependencies. | `Python` `XInput` |
 
-<sub>More in <a href="https://github.com/utkuberkaytan?tab=repositories">repositories</a> — including UAV and embedded work in progress.</sub>
+<sub>More in <a href="https://github.com/utkuberkaytan?tab=repositories">repositories</a> — including private UAV, AI, and red-team work.</sub>
 
 ---
 
@@ -69,19 +73,25 @@ Long game: defense industry engineering.
 </p>
 <p>
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ### Currently
 
-- Going deeper into **C** as my primary language — memory, pointers, and no safety net
-- **Windows internals**: PE parsing, memory mapping, injection primitives
-- **VTOL** flight tuning and multi-modal (RGB + thermal) detection models
-- Homelab: self-hosted services, DNS filtering, network plumbing
+- **Mini sumo robotics** — STM32-based combat robot, custom sensor + motor driver board
+- **AI personal agent (EDITH)** — FastAPI + vector DB backend with a mobile client
+- **Windows internals** — PE parsing, memory mapping, injection primitives
+- **VTOL** flight tuning and multi-modal (RGB + thermal) detection pipelines
+- Deepening in **C** — memory management, low-level tooling, no safety net
 
 ---
 
