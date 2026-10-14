@@ -1,34 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="539" height="620">
-  <rect width="539" height="620" fill="#0d1117" rx="8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="539" height="640">
+  <rect width="539" height="640" fill="#0d1117" rx="8"/>
   <text font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" xml:space="preserve">
-    <tspan y="33"><tspan x="20" fill="#ffffff" font-weight="bold">  ██████╗ ███████╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗</tspan></tspan>
-    <tspan y="53"><tspan x="20" fill="#ffffff" font-weight="bold">  ██╔══██╗██╔════╝██╔══██╗██║ ██╔╝██╔══██╗╚██╗ ██╔╝</tspan></tspan>
-    <tspan y="73"><tspan x="20" fill="#ffffff" font-weight="bold">  ██████╔╝█████╗  ██████╔╝█████╔╝ ███████║ ╚████╔╝ </tspan></tspan>
-    <tspan y="93"><tspan x="20" fill="#ffffff" font-weight="bold">  ██╔══██╗██╔══╝  ██╔══██╗██╔═██╗ ██╔══██║  ╚██╔╝  </tspan></tspan>
-    <tspan y="113"><tspan x="20" fill="#ffffff" font-weight="bold">  ██████╔╝███████╗██║  ██║██║  ██╗██║  ██║   ██║   </tspan></tspan>
-    <tspan y="133"><tspan x="20" fill="#ffffff" font-weight="bold">  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   </tspan></tspan>
-    <tspan y="153"> </tspan>
-    <tspan y="173"><tspan x="20" fill="#555555" font-weight="normal">  ────────────────────────────────────────────────────</tspan></tspan>
-    <tspan y="193"> </tspan>
-    <tspan y="213"><tspan x="20" fill="#56d4e0" font-weight="bold">  Utku Berkay TAN</tspan><tspan x="152.6" fill="#cccccc" font-weight="normal">  </tspan><tspan x="168.2" fill="#555555" font-weight="normal">·</tspan><tspan x="176.0" fill="#cccccc" font-weight="normal">  </tspan><tspan x="191.6" fill="#cccccc" font-weight="normal">Ankara, Türkiye</tspan></tspan>
-    <tspan y="233"> </tspan>
-    <tspan y="253"><tspan x="20" fill="#555555" font-weight="normal">  ────────────────────────────────────────────────────</tspan></tspan>
-    <tspan y="273"> </tspan>
-    <tspan y="293"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#e5c07b" font-weight="bold">▸ UAV / Autonomy</tspan><tspan x="160.4" fill="#cccccc" font-weight="normal">    Pixhawk · ArduPilot · MAVLink · YOLO</tspan></tspan>
-    <tspan y="313"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#e06c75" font-weight="bold">▸ Red Team</tspan><tspan x="113.6" fill="#cccccc" font-weight="normal">          Windows internals · PE · process injection</tspan></tspan>
-    <tspan y="333"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#98c379" font-weight="bold">▸ Embedded</tspan><tspan x="113.6" fill="#cccccc" font-weight="normal">          STM32 · KiCad · ESP32</tspan></tspan>
-    <tspan y="353"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#c678dd" font-weight="bold">▸ AI Agents</tspan><tspan x="121.4" fill="#cccccc" font-weight="normal">         FastAPI · ChromaDB · local LLM</tspan></tspan>
-    <tspan y="373"> </tspan>
-    <tspan y="393"><tspan x="20" fill="#555555" font-weight="normal">  ────────────────────────────────────────────────────</tspan></tspan>
-    <tspan y="413"> </tspan>
-    <tspan y="433"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#555555" font-weight="normal">Long game:</tspan><tspan x="113.6" fill="#cccccc" font-weight="normal">  </tspan><tspan x="129.2" fill="#cccccc" font-weight="normal">defense industry engineering</tspan></tspan>
-    <tspan y="453"> </tspan>
-    <tspan y="473"><tspan x="20" fill="#555555" font-weight="normal">  ────────────────────────────────────────────────────</tspan></tspan>
-    <tspan y="493"> </tspan>
-    <tspan y="513"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#56b6c2" font-weight="normal">github</tspan><tspan x="82.4" fill="#cccccc" font-weight="normal">   </tspan><tspan x="105.80000000000001" fill="#cccccc" font-weight="normal">github.com/utkuberkaytan</tspan></tspan>
-    <tspan y="533"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#56b6c2" font-weight="normal">mail  </tspan><tspan x="82.4" fill="#cccccc" font-weight="normal">   </tspan><tspan x="105.80000000000001" fill="#cccccc" font-weight="normal">utkutanberkay@gmail.com</tspan></tspan>
-    <tspan y="553"> </tspan>
-    <tspan y="573"><tspan x="20" fill="#555555" font-weight="normal">  ────────────────────────────────────────────────────</tspan></tspan>
-    <tspan y="593"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#555555" font-weight="normal">  good vibecoder btw.</tspan></tspan>
+    <tspan y="37"><tspan x="20" fill="#ffffff" font-weight="bold">  ██████╗ ███████╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗</tspan></tspan>
+    <tspan y="57"><tspan x="20" fill="#ffffff" font-weight="bold">  ██╔══██╗██╔════╝██╔══██╗██║ ██╔╝██╔══██╗╚██╗ ██╔╝</tspan></tspan>
+    <tspan y="77"><tspan x="20" fill="#ffffff" font-weight="bold">  ██████╔╝█████╗  ██████╔╝█████╔╝ ███████║ ╚████╔╝ </tspan></tspan>
+    <tspan y="97"><tspan x="20" fill="#ffffff" font-weight="bold">  ██╔══██╗██╔══╝  ██╔══██╗██╔═██╗ ██╔══██║  ╚██╔╝  </tspan></tspan>
+    <tspan y="117"><tspan x="20" fill="#ffffff" font-weight="bold">  ██████╔╝███████╗██║  ██║██║  ██╗██║  ██║   ██║   </tspan></tspan>
+    <tspan y="137"><tspan x="20" fill="#ffffff" font-weight="bold">  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   </tspan></tspan>
+    <tspan y="157"> </tspan>
+    <tspan y="177"><tspan x="20" fill="#555555" font-weight="normal">  ────────────────────────────────────────────────────</tspan></tspan>
+    <tspan y="197"> </tspan>
+    <tspan y="217"><tspan x="20" fill="#56d4e0" font-weight="bold">  Utku Berkay TAN</tspan><tspan x="152.6" fill="#cccccc" font-weight="normal">  </tspan><tspan x="168.2" fill="#555555" font-weight="normal">·</tspan><tspan x="176.0" fill="#cccccc" font-weight="normal">  </tspan><tspan x="191.6" fill="#cccccc" font-weight="normal">Ankara, Türkiye</tspan></tspan>
+    <tspan y="237"> </tspan>
+    <tspan y="257"><tspan x="20" fill="#555555" font-weight="normal">  ────────────────────────────────────────────────────</tspan></tspan>
+    <tspan y="277"> </tspan>
+    <tspan y="297"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#e5c07b" font-weight="bold">▸ UAV / Autonomy</tspan><tspan x="160.4" fill="#cccccc" font-weight="normal">    Pixhawk · ArduPilot · MAVLink · YOLO</tspan></tspan>
+    <tspan y="317"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#e06c75" font-weight="bold">▸ Red Team</tspan><tspan x="113.6" fill="#cccccc" font-weight="normal">          Windows internals · PE · process injection</tspan></tspan>
+    <tspan y="337"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#98c379" font-weight="bold">▸ Embedded</tspan><tspan x="113.6" fill="#cccccc" font-weight="normal">          STM32 · KiCad · ESP32</tspan></tspan>
+    <tspan y="357"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#c678dd" font-weight="bold">▸ AI Agents</tspan><tspan x="121.4" fill="#cccccc" font-weight="normal">         FastAPI · ChromaDB · local LLM</tspan></tspan>
+    <tspan y="377"> </tspan>
+    <tspan y="397"><tspan x="20" fill="#555555" font-weight="normal">  ────────────────────────────────────────────────────</tspan></tspan>
+    <tspan y="417"> </tspan>
+    <tspan y="437"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#555555" font-weight="normal">Long game:</tspan><tspan x="113.6" fill="#cccccc" font-weight="normal">  </tspan><tspan x="129.2" fill="#cccccc" font-weight="normal">defense industry engineering</tspan></tspan>
+    <tspan y="457"> </tspan>
+    <tspan y="477"><tspan x="20" fill="#555555" font-weight="normal">  ────────────────────────────────────────────────────</tspan></tspan>
+    <tspan y="497"> </tspan>
+    <tspan y="517"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#56b6c2" font-weight="normal">github</tspan><tspan x="82.4" fill="#cccccc" font-weight="normal">   </tspan><tspan x="105.80000000000001" fill="#cccccc" font-weight="normal">github.com/utkuberkaytan</tspan></tspan>
+    <tspan y="537"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#56b6c2" font-weight="normal">mail  </tspan><tspan x="82.4" fill="#cccccc" font-weight="normal">   </tspan><tspan x="105.80000000000001" fill="#cccccc" font-weight="normal">utkutanberkay@gmail.com</tspan></tspan>
+    <tspan y="557"> </tspan>
+    <tspan y="577"><tspan x="20" fill="#555555" font-weight="normal">  ────────────────────────────────────────────────────</tspan></tspan>
+    <tspan y="597"><tspan x="20" fill="#cccccc" font-weight="normal">  </tspan><tspan x="35.6" fill="#555555" font-weight="normal">  good vibecoder btw.</tspan></tspan>
   </text>
 </svg>

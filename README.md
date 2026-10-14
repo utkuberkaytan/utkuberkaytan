@@ -104,5 +104,9 @@ Long game: defense industry engineering.
 ---
 
 <p align="center">
+  <img src="./card.svg" alt="terminal card" width="539" />
+</p>
+
+<p align="center">
   <sub><code>curl -sL https://raw.githubusercontent.com/utkuberkaytan/utkuberkaytan/main/card.txt</code></sub>
 </p>
